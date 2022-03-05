@@ -12,7 +12,6 @@ import 'package:liveapp/pages/my_profile.dart';
 import 'package:liveapp/pages/show_filter.dart';
 import 'package:liveapp/pages/view_product.dart';
 import 'package:liveapp/widgets/drawer.dart';
-
 import 'pages/bottom_navigation.dart';
 
 void main() {
