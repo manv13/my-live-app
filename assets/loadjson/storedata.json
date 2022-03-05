@@ -1,0 +1,124 @@
+[
+    {
+        "title":"Shoe",
+        "price":"500",
+        "mrp" :"1000",
+        "rating":"2.5",
+        "main_image":"assets/images/option2.jpg",
+        "option_image1":"assets/images/option1.jpg",
+        "option_image2":"assets/images/option3.jpg",
+        "option_image3":"assets/images/option4.jpg",
+        "category":"Shoes"
+         
+    },
+
+    {
+        "title":"T-Shirt",
+        "price":"300",
+        "mrp" :"550",
+        "rating":"5",
+        "main_image":"assets/productImages/tshirt1.jpg",
+        "option_image1":"assets/productImages/tshirt2.jpg",
+        "option_image2":"assets/productImages/tshirt3.jpg",
+        "option_image3":"assets/productImages/tshirt4.jpg",
+        "category":"Clothes"
+         
+    },
+    {
+        "title":"Men-Pants",
+        "price":"700",
+        "mrp" :"1200",
+        "rating":"3.8",
+        "main_image":"assets/productImages/pant1.jpg",
+        "option_image1":"assets/productImages/pant2.jpg",
+        "option_image2":"assets/productImages/pant3.jpg",
+        "option_image3":"assets/productImages/pant4.jpg",
+        "category":"Pants"
+         
+    },
+    {
+        "title":"Bag For girls",
+        "price":"600",
+        "mrp" :"900",
+        "rating":"3.6",
+        "main_image":"assets/productImages/girlbag1.jpg",
+        "option_image1":"assets/productImages/girlbag2.jpg",
+        "option_image2":"assets/productImages/girlbag3.jpg",
+        "option_image3":"assets/productImages/girlbag4.jpg",
+        "category":"Bag"
+         
+    },
+    {
+        "title":"Watch",
+        "price":"300",
+        "mrp" :"500",
+        "rating":"4.5",
+        "main_image":"assets/productImages/watch1.jpg",
+        "option_image1":"assets/productImages/watch2.jpg",
+        "option_image2":"assets/productImages/watch3.jpg",
+        "option_image3":"assets/productImages/watch4.jpg",
+        "category":"Watches"
+         
+    },
+    {
+        "title":"Power-Bank",
+        "price":"1500",
+        "mrp" :"2000",
+        "rating":"3.2",
+        "main_image":"assets/productImages/pw1.jpg",
+        "option_image1":"assets/productImages/pw2.jpg",
+        "option_image2":"assets/productImages/pw3.jpg",
+        "option_image3":"assets/productImages/pw4.jpg",
+        "category":"Electronics"
+
+         
+    },
+    {
+        "title":"Kids-tshirt",
+        "price":"700",
+        "mrp" :"1000",
+        "rating":"3",
+        "main_image":"assets/productImages/kidtshirt1.jpg",
+        "option_image1":"assets/productImages/kidtshirt2.jpg",
+        "option_image2":"assets/productImages/kidtshirt3.jpg",
+        "option_image3":"assets/productImages/kidtshirt4.jpg",
+        "category":"kids"
+         
+    },
+    {
+        "title":"Toy-car",
+        "price":"300",
+        "mrp" :"800",
+        "rating":"5",
+        "main_image":"assets/productImages/toycar1.jpg",
+        "option_image1":"assets/productImages/toycar2.jpg",
+        "option_image2":"assets/productImages/toycar3.jpg",
+        "option_image3":"assets/productImages/toycar4.jpg",
+        "category":"Toys"
+         
+    },
+    {
+        "title":"Ear-buds",
+        "price":"1300",
+        "mrp" :"1900",
+        "rating":"4",
+        "main_image":"assets/productImages/earbuds1.jpg",
+        "option_image1":"assets/productImages/earbuds2.jpg",
+        "option_image2":"assets/productImages/earbuds3.jpg",
+        "option_image3":"assets/productImages/earbuds4.jpg",
+        "category":"Electronics"
+         
+    },
+    {
+        "title":"Men-Pants",
+        "price":"700",
+        "mrp" :"1200",
+        "rating":"3.8",
+        "main_image":"assets/productImages/pant1.jpg",
+        "option_image1":"assets/productImages/pant2.jpg",
+        "option_image2":"assets/productImages/pant3.jpg",
+        "option_image3":"assets/productImages/pant4.jpg",
+        "category":"Pants"
+         
+    }
+]
